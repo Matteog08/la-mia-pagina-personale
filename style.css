@@ -1,0 +1,50 @@
+
+
+body{
+background-color:#F0FFF0;
+}
+
+
+h1{
+text-align: center ;
+
+color:orange
+}
+
+
+
+h2{
+text-align: center;
+
+color:orange;
+}
+
+header{
+text-align:center;
+background-color:#9fd3c7;
+}	
+
+
+p{
+text-align: center;
+
+
+}	
+
+
+footer{
+	
+background-color:#9fd3c7;
+	
+	
+padding:20px; 
+	
+}	
+
+img{
+
+ width: 500px;
+margin:auto;
+display:block;
+
+}	
